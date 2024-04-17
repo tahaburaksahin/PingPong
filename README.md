@@ -1,6 +1,8 @@
-Tabii, işte bir README dosyası için örnek metin:
 
----
+![1](https://github.com/tahaburaksahin/PingPong/assets/99183230/81246327-1160-4eb6-a1d7-c5bb46166eff)
+
+
+
 
 # PinPong Game
 
