@@ -31,9 +31,4 @@ This is a simple PinPong game developed in Java language.
 1. Clone this repository to your local machine.
 2. Compile the `PinPongGame.java` file using a Java compiler.
 3. Run the compiled file to start the game.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
